@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("new_test_branch");
+        System.out.println("main");
         Scanner scanner = new Scanner(System.in);
         String email = scanner.nextLine();
         System.out.println(pochtoviYashik(email));
